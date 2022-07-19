@@ -21,10 +21,10 @@ JMatch is a site that combines the concept of a dating site and a social network
 
 ## Installation
 
-Use the package manager npm install to install foobar.
+To install this library, run:
 
 ```bash
-npm install
+$ npm install
 ```
 
 
