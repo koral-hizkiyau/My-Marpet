@@ -1,0 +1,20 @@
+
+.btn-register{
+    margin-top: 21px;
+    width: 80%;
+    padding: 12px;
+    border-radius: 3px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    /* background: cornflowerblue;
+    color: white; */
+    font-weight: bold;
+    border: 2px solid white;
+    color: white;
+}
+
+.msg-reg{
+    margin-left: 20px;
+    color: red;
+    font-weight: normal;
+}
