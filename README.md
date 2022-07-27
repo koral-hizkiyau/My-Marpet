@@ -3,8 +3,7 @@
 
 # My Marpet
 
-JMatch is a site that combines the concept of a dating site and a social network by framework React-Hooks and server-side NodeJS with MongoDB 🙂
-
+Pet clinic website showing client and customer data.
 
 **For admin demo try click:**
 
